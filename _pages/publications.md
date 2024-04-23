@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Journal Publications
+1. Wang, S., Xu, K., & Zhou, Y. (2024). Cost-effective sensor placement optimization for large-scale urban sewage surveillance. Sustainable Cities and Society, 105250.
