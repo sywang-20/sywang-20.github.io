@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talk/    
+    url: /talks_md/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching_md/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
