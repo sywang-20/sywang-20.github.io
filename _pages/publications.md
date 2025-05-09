@@ -8,6 +8,7 @@ author_profile: true
 Journal Publications
 ------------------
 1. Wang, S., Xu, K., & Zhou, Y. (2024). Cost-effective sensor placement optimization for large-scale urban sewage surveillance. Sustainable Cities and Society, 105250.
+2. Wang, S., Ding, F., Wang, Y., Yeh, A., & Huang, G. (2025). Network-based pick-up and drop-off location optimization for shared autonomous vehicles. Urban Informatics, 4(1), 1-12.
 
 Conference Proceedings
 ------------------
