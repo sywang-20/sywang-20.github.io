@@ -12,7 +12,6 @@ Hi, I'm Sunyu Wang, a third-year PhD student in Urban Data Science at [the Depar
 Please feel free to get in touch!
 
 ## Research Interest
-======
 - Spatial Optimization
 - Urban Data Science
 
