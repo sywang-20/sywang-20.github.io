@@ -15,3 +15,5 @@ Oral presentation at 19th International Conference on Computational Urban Planni
 **Network-based pick-up and drop-off location optimization for shared autonomous vehicles**\
 Poster presentation at 19th International Conference on Computational Urban Planning and Urban Management (CUPUM), 23–27 June 2025, London, UK
 
+Invited talks
+------------
