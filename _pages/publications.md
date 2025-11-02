@@ -15,5 +15,5 @@ Journal Publications
 Conference Proceedings
 ------------------
 - Wang, S., Wang, Y., Qiao, S., & Yeh, A. (2025). Optimizing parking facility locations to minimize cruising for shared autonomous vehicles. The 19th International Conference on Computational Urban Planning and Urban Management (CUPUM), 23–27 June 2025, London, UK.
-- Wang, S., Xia, Y., Chen, H., Tong, X., & Zhou, Y. (2024). Evolutionary Greedy Algorithm for Optimal Sensor Placement Problem in Urban Sewage Surveillance. The 13th ACM SIGKDD International Workshop on Urban Computing (UrbComp’24), Barcelona, Spain. ([link](http://urban-computing.com/urbcomp2024/accept/paper_2.pdf))
+- Wang, S., Xia, Y., Chen, H., Tong, X., & Zhou, Y. (2024). Evolutionary greedy algorithm for optimal sensor placement problem in urban sewage surveillance. The 13th ACM SIGKDD International Workshop on Urban Computing (UrbComp’24), Barcelona, Spain. ([link](http://urban-computing.com/urbcomp2024/accept/paper_2.pdf))
 
