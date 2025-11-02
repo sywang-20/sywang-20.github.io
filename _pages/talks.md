@@ -6,6 +6,9 @@ author_profile: true
 
 Conference
 -----------
+**Optimal parking planning for shared autonomous vehicles: a two-stage stochastic programming approach**\
+Poster presentation at the 2025 INFORMS Annual Meeting, 26–29 October 2025, Atlanta, USA.
+
 **Optimizing parking facility locations to minimize cruising for shared autonomous vehicles**\
 Oral presentation at 19th International Conference on Computational Urban Planning and Urban Management (CUPUM), 23–27 June 2025, London, UK.
 
