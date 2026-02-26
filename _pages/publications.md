@@ -8,6 +8,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Journal Publications
 ------------------
+- Wang, S., Zhao, X., & Wang, Y. (2026). Optimized parking lot locations for shared autonomous vehicles: A perspective from minimum route distance. *Journal of Transport Geography*, 131, 104576. ([link](https://www.sciencedirect.com/science/article/abs/pii/S096669232600030X))
 - Wang, S., Ding, F., Wang, Y., Yeh, A. G. O., & Huang, G. (2025). Network-based pick-up and drop-off location optimization for shared autonomous vehicles. *Urban Informatics*, 4(1), 1-12. ([link](https://link.springer.com/article/10.1007/s44212-025-00073-z#citeas))
 - Wang, S., Xu, K., & Zhou, Y. (2024). Cost-effective sensor placement optimization for large-scale urban sewage surveillance. *Sustainable Cities and Society*, 105250. ([link](https://www.sciencedirect.com/science/article/abs/pii/S2210670724000799))
 
