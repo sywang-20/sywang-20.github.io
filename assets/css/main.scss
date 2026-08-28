@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.news-scroll {
+  max-height: 14rem;
+  overflow-y: auto;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e5e5e5;
+  border-radius: 0.25rem;
+  background: #fafafa;
+  scrollbar-gutter: stable;
+}
+
+.news-scroll ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.news-scroll li + li {
+  margin-top: 0.5rem;
+}
+
+.news-scroll:focus {
+  outline: 2px solid #52adc8;
+  outline-offset: 2px;
+}
