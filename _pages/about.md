@@ -21,18 +21,11 @@ Please feel free to get in touch!
 - BSc in Mathematics and Applied Mathematics (2016.09-2020.06), School of Mathematical Sciences, Xiamen University
 
 ## News
+
 <div class="news-scroll" role="region" aria-label="Latest news" tabindex="0">
-  <ul>
-    <li><strong>Sep 2026</strong> — Add your latest news here.</li>
-    <li><strong>Jul 2026</strong> — Add another update here.</li>
-    <li><strong>Jun 2026</strong> — Older updates remain available by scrolling.</li>
-    <li><strong>May 2026</strong> — Additional update.</li>
-    <li><strong>Apr 2026</strong> — Additional update.</li>
-    <li><strong>Mar 2026</strong> — Additional update.</li>
-    <li><strong>May 2026</strong> — Additional update.</li>
-    <li><strong>Apr 2026</strong> — Additional update.</li>
-    <li><strong>Mar 2026</strong> — Additional update.</li>
-  </ul>
+<p class="news-item">
+  <strong>[Sep 2026]</strong> Additional update.
+</p>
 </div>
 
 
