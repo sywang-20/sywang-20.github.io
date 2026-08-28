@@ -11,9 +11,13 @@ Hi, I'm Sunyu Wang, a fourth-year PhD student in Urban Data Science at the [Depa
 
 Please feel free to get in touch!
 
-## Research Interest
-- Spatial Optimization
-- Urban Data Science
+## Research Interests
+
+**Spatial Optimization**  
+Developing optimization models and algorithms to address a broad range of urban problems, with a particular focus on applications in transportation and public health.
+
+**Urban Data Science**  
+Using large-scale spatial data to understand urban dynamics and support evidence-based planning and decision-making.
 
 ## Education
 
