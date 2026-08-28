@@ -15,4 +15,18 @@ Please feel free to get in touch!
 - Spatial Optimization
 - Urban Data Science
 
+## Education
+- PhD in Urban Data Science (2022.09-now), Department of Urban Planning and Design, The University of Hong Kong
+- MSc in Spatial Data Science and Visualization (2020.09-2021.12), Bartlett Centre for Advanced Spatial Analysis (CASA), University College London
+- BSc in Mathematics and Applied Mathematics (2016.09-2020.06), School of Mathematical Sciences, Xiamen University
+
+## News
+<div class="news-scroll" role="region" aria-label="Latest news" tabindex="0">
+  <ul>
+    <li><strong>Sep 2026</strong> — Add your latest news here.</li>
+    <li><strong>Jul 2026</strong> — Add another update here.</li>
+    <li><strong>Jun 2026</strong> — Older updates remain available by scrolling.</li>
+  </ul>
+</div>
+
 
