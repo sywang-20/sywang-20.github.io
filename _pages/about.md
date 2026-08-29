@@ -12,9 +12,9 @@ Hi, I’m Sunyu Wang, a PhD candidate in Urban Data Science at the [Department o
 
 My research interests lie at the intersection of **spatial optimization** and **urban data science**:
 
-**Spatial Optimization**: I develop optimization models and algorithms to address a broad range of urban planning and operational problems, with a particular focus on applications in transportation and public health.
+- **Spatial Optimization**: I develop optimization models and algorithms to address a broad range of urban planning and operational problems, with a particular focus on applications in transportation and public health.
 
-**Urban Data Science**: I also use large-scale spatial data to understand urban dynamics and support evidence-based planning and decision-making.
+- **Urban Data Science**: I also use large-scale spatial data to understand urban dynamics and support evidence-based planning and decision-making.
 
 Please feel free to get in touch if you are interested in these topics!
 
