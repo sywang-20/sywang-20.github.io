@@ -7,28 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Sunyu Wang, a fourth-year PhD student in Urban Data Science at the [Department of Urban Planning and Design, The University of Hong Kong](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/), supervised by [Professor Anthony Gar-On Yeh](https://www.arch.hku.hk/staff/upad/yeh-anthony-g-o/?dept=upad). Before joining HKU, I got my master's degree in Spatial Data Science and Visualization from the [Bartlett Centre for Advanced Spatial Analysis (CASA), University College London](https://www.ucl.ac.uk/bartlett/casa).
+Hi, I’m Sunyu Wang, a PhD candidate in Urban Data Science at the [Department of Urban Planning and Design, The University of Hong Kong](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/), supervised by [Professor Anthony Gar-On Yeh](https://www.arch.hku.hk/staff/upad/yeh-anthony-g-o/?dept=upad). Before joining HKU, I received my MSc in Spatial Data Science and Visualization from the [Bartlett Centre for Advanced Spatial Analysis (CASA), University College London](https://www.ucl.ac.uk/bartlett/casa), and my BSc in Mathematics and Applied Mathematics from [Xiamen University](https://math.xmu.edu.cn/).
 
-Please feel free to get in touch!
 
-## Research Interests
+My research interests lie at the intersection of **spatial optimization** and **urban data science**:
 
-**Spatial Optimization**  
-Developing optimization models and algorithms to address a broad range of urban problems, with a particular focus on applications in transportation and public health.
+**Spatial Optimization**: I develop optimization models and algorithms to address a broad range of urban planning and operational problems, with a particular focus on applications in transportation and public health.
 
-**Urban Data Science**  
-Using large-scale spatial data to understand urban dynamics and support evidence-based planning and decision-making.
+**Urban Data Science**: I also use large-scale spatial data to understand urban dynamics and support evidence-based planning and decision-making.
 
-## Education
-
-**PhD in Urban Data Science** *(Sep. 2022 – Present)*  
-Department of Urban Planning and Design, The University of Hong Kong
-
-**MSc in Spatial Data Science and Visualization** *(Sep. 2020 – Dec. 2021)*  
-Bartlett Centre for Advanced Spatial Analysis (CASA), University College London
-
-**BSc in Mathematics and Applied Mathematics** *(Sep. 2016 – Jun. 2020)*  
-School of Mathematical Sciences, Xiamen University
+Please feel free to get in touch if you are interested in these topics!
 
 ## News
 
