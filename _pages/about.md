@@ -22,7 +22,7 @@ Please feel free to get in touch if you are interested in these topics!
 
 <div class="news-scroll" role="region" aria-label="Latest news" tabindex="0">
 <p class="news-item">
-  <strong>[Sep 2026]</strong> Additional update.
+  <strong>[Sep 2026]</strong> I successfully defended my PhD thesis! Special thanks to my supervisor, Prof Yeh, for his invaluable guidance and support throughout my PhD journey!
 </p>
 </div>
 
