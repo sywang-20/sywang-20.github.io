@@ -22,7 +22,7 @@ Please feel free to get in touch if you are interested in these topics!
 
 <div class="news-scroll" role="region" aria-label="Latest news" tabindex="0">
 <p class="news-item">
-  <strong>[2026-10]</strong> My first-authored paper "Optimal Parking Planning for Shared Autonomous Vehicles: A Zone-based Spatial Optimization Approach" has been accepted by <em>Transportation Research Record</em>!
+  <strong>[2026-10]</strong> My first-authored paper "Optimal Parking Planning for Shared Autonomous Vehicles: A Zone-based Spatial Optimization Approach" has been accepted by <em>Transportation Research Record</em> !
 </p>
 
 <p class="news-item">
